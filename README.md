@@ -1,11 +1,11 @@
 # Abhishek - Data Analyst Portfolio
 
 ## Contents
-- About me
-- Portfolio Projects
-- Education
-- Certifications
-- Contact
+- [About me](https://github.com/abhishekg2048/abhishekg2048?tab=readme-ov-file#about-me)
+- [Portfolio Projects](https://github.com/abhishekg2048/abhishekg2048?tab=readme-ov-file#portfolio-projects)
+- [Education]
+- [Certifications]
+- [Contact]
 
 ## About me
 My name is Abhishek, I'm an entry-level Data Analyst with a Bachelor's degree in Computer Applications, during which I've developed foundations in programming and problem solving. I'm passionate about transforming raw data into innovative, actionable insights that drive smart decision making.
@@ -13,7 +13,7 @@ Through these personal and academic projects, I've gained knowledge in data clea
 
 ## Portfolio Projects
 
-### UFC Fight Data Analysis
+### [UFC Fight Data Analysis](https://github.com/abhishekg2048/UFC_Fight-Data-Analysis)
 #### 🥊 Description:
 Exploratory analysis of 3 decades of UFC fight data, enhanced with additional columns such as height/reach/age differences and performance differentials. The project examines trends in fight volume, title vs. non-title bouts, fighter attributes, win methods, and performance metrics. All insights were summarized using Excel pivot tables and visualizations.
 #### Outcome:
@@ -21,7 +21,7 @@ This project highlights how fighter attributes and performance metrics relate to
 #### Tools Used:
 Excel (data cleaning, feature engineering, pivot tables, visualizations)
 
-### 🛍️ TechPoint Sales Analysis
+### 🛍️ [TechPoint Sales Analysis](https://github.com/abhishekg2048/Techpoint-Sales-Analysis)
 #### Description:
 An end-to-end analytics project using a hypothetical retail dataset for a fictional electronics store called TechPoint. SQL was used to calculate KPIs and metrics, followed by a detailed Power BI dashboard and Python visualizations in Colab. The analysis covers sales patterns across item types, power usage categories, outlet characteristics, and establishment years.
 #### Outcome:
@@ -29,7 +29,7 @@ The project reveals which item types and outlet attributes drive the most revenu
 #### Tools Used:
 SQL, Power BI, Python (pandas, matplotlib, seaborn), Excel, Google Colab
 
-### ☕ Coffee Shop Sales Analysis
+### ☕ [Coffee Shop Sales Analysis](https://github.com/abhishekg2048/Coffeeshop-Sales-Analysis)
 #### Description:
 A sales analysis project for a hypothetical coffee shop using SQL for calculating KPIs and other metrics, and Excel for a detailed dashboard. The project examines daily and hourly order patterns, sales distribution across drink categories and sizes, and best/worst selling products.
 #### Outcome:
