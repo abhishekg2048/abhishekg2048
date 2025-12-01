@@ -1,11 +1,11 @@
 # Abhishek - Data Analyst Portfolio
 
 ## Contents
-- [About me](https://github.com/abhishekg2048/abhishekg2048?tab=readme-ov-file#about-me)
-- [Portfolio Projects](https://github.com/abhishekg2048/abhishekg2048?tab=readme-ov-file#portfolio-projects)
-- [Education]
-- [Certifications]
-- [Contact]
+- [About me](#About-me)
+- [Portfolio Projects](#Portfolio-Projects)
+- [Education](#Education)
+- [Certifications](#Certificates)
+- [Contact](#Contact)
 
 ## About me
 My name is Abhishek, I'm an entry-level Data Analyst with a Bachelor's degree in Computer Applications, during which I've developed foundations in programming and problem solving. I'm passionate about transforming raw data into innovative, actionable insights that drive smart decision making.
