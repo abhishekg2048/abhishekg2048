@@ -13,8 +13,8 @@ Through these personal and academic projects, I've gained knowledge in data clea
 
 ## Portfolio Projects
 
-### [UFC Fight Data Analysis](https://github.com/abhishekg2048/UFC_Fight-Data-Analysis)
-#### 🥊 Description:
+### 🥊 [UFC Fight Data Analysis](https://github.com/abhishekg2048/UFC_Fight-Data-Analysis)
+#### Description:
 Exploratory analysis of 3 decades of UFC fight data, enhanced with additional columns such as height/reach/age differences and performance differentials. The project examines trends in fight volume, title vs. non-title bouts, fighter attributes, win methods, and performance metrics. All insights were summarized using Excel pivot tables and visualizations.
 #### Outcome:
 This project highlights how fighter attributes and performance metrics relate to win probability, reveals long-term trends in win methods and submission types, and shows how outcomes vary across weight classes. It also serves as a foundation for future predictive modelling.
